@@ -1,0 +1,21 @@
+{
+  "name": "sonata-test",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fast-csv": "^4.3.6",
+    "json2csv": "^5.0.6",
+    "multer": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prabhat Kr Mandal",
+  "license": "ISC"
+}
