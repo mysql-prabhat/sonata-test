@@ -24,6 +24,6 @@ Postman Details :
 		form-data :
 		file: candidate-upload-csv.csv<put the csv file to import>
 	
-
+SQL file included within the project folder. Please execute it.
 
 Sorry for using Mysql.
