@@ -6,11 +6,16 @@ I have used MYSQL for this test as I am using office computer so dont have insta
 
 
 Step1 : Please unzip the folder.
+
 Step2 : Create a database named “sonata“, Then import the sql file attached with the mail.
+
 Step3 : Now configure the env.js file for database connection.
+
 Step4 : Go to the folder and the run the below command :
 	$> npm i
-Step4 : Now use the postman to test the api
+
+Step5 : Now use the postman to test the api
+
 
 Postman Details : 
 	URL – localhost:8080/api/csv/upload
